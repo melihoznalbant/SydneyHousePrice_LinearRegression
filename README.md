@@ -1,5 +1,8 @@
 # SydneyHousePrice_LinearRegression
 
+![image](https://user-images.githubusercontent.com/113714236/208296533-750ed3f2-e18e-4692-a98e-b9361c188344.png)
+
+
 So what's in this project?
   • Data Visualization
   • Data Analysis
